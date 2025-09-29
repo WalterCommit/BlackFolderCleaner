@@ -46,7 +46,7 @@ Klasör Temizleyici, seçilen bir klasör içindeki tüm dosya ve alt klasörler
 
 **English:**  
 *Example of GUI interface:*  
-![Folder Cleaner Screenshot]
+[Folder Cleaner Screenshot]
 ---
 <img width="647" height="258" alt="3" src="https://github.com/user-attachments/assets/994473d2-1a74-4ebe-a4ff-0d3efc2e9340" />
 
@@ -59,7 +59,7 @@ Klasör Temizleyici, seçilen bir klasör içindeki tüm dosya ve alt klasörler
 ---
 **Türkçe:**  
 *Arayüz örneği:*  
-![Klasör Temizleyici Görüntü]
+[Klasör Temizleyici Görüntü]
 ---
 <img width="647" height="258" alt="3" src="https://github.com/user-attachments/assets/994473d2-1a74-4ebe-a4ff-0d3efc2e9340" />
 
